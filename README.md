@@ -1,9 +1,5 @@
 # OSL
 
-
-
-//This is A-OKAY
-
  
     /* C Program to sort an array in ascending order using Insertion Sort */
 
